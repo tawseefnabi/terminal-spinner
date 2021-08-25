@@ -1,0 +1,23 @@
+{
+  "name": "terminal-spinner",
+  "version": "0.0.1",
+  "description": "terminal spinner",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tawseefnabi/terminal-spinner.git"
+  },
+  "keywords": [
+    "spinner",
+    "terminal-spinner"
+  ],
+  "author": "tawseef <tawseefnabi9@gmail.com> (https://twitter.com/NabiTowseef)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tawseefnabi/terminal-spinner/issues"
+  },
+  "homepage": "https://github.com/tawseefnabi/terminal-spinner#readme"
+}
