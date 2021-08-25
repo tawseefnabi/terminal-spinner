@@ -1,6 +1,6 @@
 {
   "name": "terminal-spinner",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "terminal spinner",
   "main": "index.js",
   "scripts": {
@@ -23,5 +23,9 @@
   "homepage": "https://github.com/tawseefnabi/terminal-spinner#readme",
   "devDependencies": {
     "prettier": "^2.3.2"
-  }
+  },
+  "publishConfig": {
+		"@tawseef:registry": "https://npm.pkg.github.com/",
+		"access": "public"
+	},
 }
