@@ -27,5 +27,5 @@
   "publishConfig": {
 		"@tawseef:registry": "https://npm.pkg.github.com/",
 		"access": "public"
-	},
+	}
 }
