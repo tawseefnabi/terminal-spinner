@@ -1,6 +1,5 @@
 #!/usr/bin/env node
 
-
-(async =>{
-  console.log('welcome');
-})()
+((async) => {
+  console.log("welcome");
+})();
