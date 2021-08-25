@@ -1,10 +1,10 @@
 {
   "name": "terminal-spinner",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "terminal spinner",
   "main": "index.js",
-  "bin":{
-    "loader":"index.js"
+  "bin": {
+    "loader": "index.js"
   },
   "scripts": {
     "test": "node test.js",
@@ -28,7 +28,7 @@
     "prettier": "^2.3.2"
   },
   "publishConfig": {
-		"@tawseef:registry": "https://npm.pkg.github.com/",
-		"access": "public"
-	}
+    "@tawseef:registry": "https://npm.pkg.github.com/",
+    "access": "public"
+  }
 }
