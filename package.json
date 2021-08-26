@@ -6,8 +6,9 @@
   "bin": {
     "loader": "index.js"
   },
+  "type": "module",
   "scripts": {
-    "test": "node test.js",
+    "test": "ava",
     "format": "prettier --write \"./**/*.{js,json}\""
   },
   "repository": {
@@ -15,8 +16,21 @@
     "url": "git+https://github.com/tawseefnabi/terminal-spinner.git"
   },
   "keywords": [
+    "terminal-spinner",
+    "cli",
     "spinner",
-    "terminal-spinner"
+    "spinners",
+    "terminal",
+    "term",
+    "console",
+    "ascii",
+    "unicode",
+    "loading",
+    "indicator",
+    "progress",
+    "busy",
+    "wait",
+    "idle"
   ],
   "author": "tawseef <tawseefnabi9@gmail.com> (https://twitter.com/NabiTowseef)",
   "license": "MIT",
@@ -25,6 +39,7 @@
   },
   "homepage": "https://github.com/tawseefnabi/terminal-spinner#readme",
   "devDependencies": {
+    "ava": "^3.15.0",
     "prettier": "^2.3.2"
   },
   "publishConfig": {
