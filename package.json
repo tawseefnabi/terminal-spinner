@@ -1,6 +1,6 @@
 {
-  "name": "terminal-spinner",
-  "version": "0.0.1",
+  "name": "@tos_/terminal-spinner",
+  "version": "0.0.2",
   "description": "terminal spinner",
   "main": "index.js",
   "bin": {
